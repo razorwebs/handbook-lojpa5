@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://razorwebs.github.io/handbook-lojpa5/sitemap.xml
